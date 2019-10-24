@@ -1,0 +1,7 @@
+{
+  "appId": "com.example.app",
+  "appName": "MyComponents",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
