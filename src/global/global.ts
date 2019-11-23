@@ -1,5 +1,4 @@
 import '@ionic/core';
-import "hammerjs";
 
 export default async () => {
   /**
